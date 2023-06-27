@@ -5,6 +5,8 @@ import { Navbar } from "./Navbar";
 import { CustomFilter } from "./CustomFilter";
 import { SearchBar } from "./SearchBar";
 import { SearchManufacturer } from "./SearchManufacturer";
+import { CardCars } from "./CardCars";
+import {CardDetails} from "./CardDetails"
 export {
     Hero,
     CustomButtom,
@@ -12,5 +14,7 @@ export {
     Footer,
     CustomFilter,
     SearchBar,
-    SearchManufacturer
+    SearchManufacturer,
+    CardCars,
+    CardDetails
 }
